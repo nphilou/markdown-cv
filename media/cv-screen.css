@@ -71,7 +71,7 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 80%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #aaa;
@@ -186,7 +186,13 @@ strong {
 	display: none;
 }
 
+#skills-div ul {
+	margin: 0px
+}
 
+#pi-div ul {
+	margin: 0px
+}
 
 /*
 @media only screen and (max-width: 480px) {
