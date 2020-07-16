@@ -12,52 +12,52 @@ title: Philippe Nguyen's English CV
 -->
 </div>
 
+## Professional experience
+
+`2020-now`
+__Data scientist__, _Learn To Forecast_, Lausanne
+- Building code-free computer vision and time series forecasting web platform
+- Topological data analysis open-source library maintainance
+- Time series forecasting open-source library development
+- Technologies: Python(scikit-learn, fastai, fastapi, pandas), UNIX
+
+`2019`
+__Machine learning internship__, _Learn To Forecast_, Lausanne
+- Topological data analysis Python open-source library development(giotto-tda)
+- Neural spike time-series predictions using topological features(ENS data challenge)
+- Article topics extraction with graph theory and relevance indicators
+- Technologies: Python(scikit-learn, pandas, luigi), UNIX
+
+`2018`
+__Research internship__, _LAMSADE, University of Paris Dauphine_, Paris  
+- Art style identification of a picture and painting recommendation, prediction and clustering using deep learning
+- Experimentations based on Triplet loss function
+- Dataset generation from existing dataset(Adobe FiveK Dataset)
+- Technologies: Python(keras, tensorflow), UNIX
+
+`2017`
+__Full-stack developer internship__, _Kibitoh_, Paris
+- Full-stack development: SMS tracking web application for automotive retail and digital marketing
+- System administration: Deployment on remote Linux servers
+- Technologies: Python(django), HTML/JS, UNIX
+
+
 ## Education
 
 `2017-2019`
 __MASc in Computer Science, University of Paris Dauphine__
 - Data mining, Machine learning, Reinforcement learning, Advanced databases,
-Combinatorial optimization, Multiple-criteria decision analysis,
+Combinatorial optimisation, Multiple-criteria decision analysis,
 Linear programming, Automata and language theory
 
 `2013-2017`
 __BASc in Mathematics, IT and Economics, University of Paris Dauphine__
 - Mathematics - Computer Science option
-- Applied mathematics, Algorithmics & Graph Theory, Java Programming, Relational Databases
+- Applied mathematics, Algorithmic & Graph theory, Relational databases
 
 `2012-2013`
 __Scientific Baccalauréat, Emily Brontë High School__
 - Mathematics specialisation
-
-
-## Professional experience
-
-`2020-now`
-__Data scientist__, _Learn To Forecast_, Lausanne
-- Open-source time series forecasting library development, maintainance and architecture design
-- Technologies: Python(scikit-learn, pandas, pytest, hypothesis), UNIX
-
-`2019`
-__Machine learning internship__, _Learn To Forecast_, Lausanne
-- Topological data analysis Python open-source library development
-- Neural spike time-series predictions using topological features
-- Article topics extraction based on graph theory and relevance indicators
-- Technologies: Python(scikit-learn, pandas, pytest, luigi), UNIX
-
-`2018`
-__Research internship__, _LAMSADE, University of Paris Dauphine_, Paris  
-- Artificial neural network building for art style identification of a picture
-and painting recommandation, prediction and clustering
-- Experimentations based on Triplet loss function
-- Dataset generation from existing dataset (Adobe FiveK Dataset)
-- Technologies: Python(keras, tensorflow), UNIX
-
-`2017`
-__Full-stack developer internship__, _Kibitoh_, Paris
-- Startup specialized in digital marketing for automotive retail
-- Full-stack development: SMS tracking web application
-- System administration: Deployment on remote Linux servers
-- Technologies: Python(django), HTML and JS, UNIX
 
 <!--
 `2016-now`
@@ -72,9 +72,9 @@ __Photographer__, _University of Paris Dauphine_, Paris
 ## Projects
 
 `current`
-__Noctilucent__
-- Picture uploading and object classification Android application using
-Python/Django/Keras GPU-powered remote backend
+__Computer vision mobile application__
+- Pictures dataset annotation, object classification and object detection Android/iOS(Flutter) application using
+Python(fastai, fastapi) GPU-powered remote backend for training and inference
 
 `2020`
 __Machine learning and finance Hackathon, 2nd edition__, _University of Paris Dauphine_, finalist  
@@ -87,15 +87,14 @@ __Machine learning and finance Hackathon__, _University of Paris Dauphine_, fina
 
 `2018`
 __Humbleloop__
-- Infinityloop-like puzzle (Constraint Satisfaction Problem) Java generator,
-satisfiability checker and solver with Vaadin framework GUI
-- Constraint Satisfaction Problem (Sudoku, Map coloring) Java solver
+- Infinityloop-like puzzle(Constraint Satisfaction Problem) Java generator,
+satisfiability checker and solver using Vaadin framework GUI
+- Constraint Satisfaction Problem(Sudoku, Map colouring) Java solver
 
 `2018`
 __Where is Brian__
 - Natural text processing for English level classification
-- Lemmatisation and artificial neural network classifier implementation in
-Python/Keras/NLTK
+- Lemmatisation and deep learning classifier implementation using Python(keras, nltk)
 
 <!--
 `2017`
@@ -117,16 +116,14 @@ __Fourmido__
 -->
 
 ### Software engineering
-- Python: django, flask
-- Java, C, Scala, Android (Kotlin)
-- HTML/CSS/JS
-
-### System administration
-- Operating Systems: Linux (NixOS, Debian), Mac OSX, Windows
+- Python: scikit-learn, numpy, pandas, matplotlib, fastai, prophet, fastapi, django, flask
+- Android(Kotlin), Dart(Flutter), Java, C, Scala
+- Web: HTML/CSS/JS
+- System administration: Linux(NixOS, Debian), MacOS, Windows
 
 ### Languages
 - French: native language
-- English: proficient (TOEIC: 810)
+- English: proficient(TOEIC: 810)
 - Vietnamese: fluent
 - German: academic
 
@@ -146,10 +143,8 @@ __Fourmido__
 
 <div markdown="1" id="pi-div">
 ### Sport
-- Badminton (13 years), table tennis (6 years), basketball, road cycling
-
-### Art
-- Film and digital photography
-- Adobe: Photoshop, Lightroom, Illustrator
-- Paper engineering: Kirigami and Origamic Architecture
+- Sport: Badminton(14 years), table tennis(6 years), basketball, road cycling
+- Art: Film and digital photography, Kirigami and Origamic Architecture
+- Image processing: Photoshop, Lightroom
+- UI/UX design: Illustrator, Figma
 </div>
