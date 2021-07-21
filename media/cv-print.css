@@ -199,3 +199,10 @@ strong {
 #pi-div ul {
 	margin: 0px
 }
+
+@media print {
+	a,
+	a:visited {
+		text-decoration: underline;
+	}
+}
